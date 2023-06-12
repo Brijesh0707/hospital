@@ -1,0 +1,39 @@
+[
+    {
+        "id":1,
+        "title":"Shoulder",
+        "des":"Shoulder surgery is a procedure to address shoulder conditions or injuries. It involves making small incisions, accessing the shoulder joint, and treating the problem. Common types include rotator cuff repair, shoulder arthroscopy, stabilization, replacement, and fracture repair.",
+        "img":"../images/shoulder.jpeg"
+    },
+    {
+        "id":2,
+        "title":"Hip",
+        "des":" Hip surgery is a medical procedure performed to address various hip conditions or injuries. It involves accessing the hip joint and treating the underlying problem. Common types include hip replacement, hip arthroscopy, and fracture repair.",
+        "img":"../images/hip.jpeg"
+
+    },
+    {
+        "id":3,
+        "title":"Knee",
+        "des":" Knee surgery is a medical procedure performed to address knee-related conditions or injuries. It involves accessing the knee joint and treating the underlying problem. Common types include knee arthroscopy, knee replacement, and ligament reconstruction..",
+        "img":"../images/knee.jpeg" 
+    },
+    {
+        "id":4,
+        "title":"Heart",
+        "des":" Heart surgery, also known as cardiac surgery, is a medical procedure performed to treat various conditions affecting the heart. It involves accessing the heart and performing surgical interventions to repair or replace damaged heart valves, clear blockages in the coronary arteries, correct congenital heart defects, or treat other heart-related conditions.",
+        "img":"../images/heart.jpeg" 
+    },
+    {
+        "id":5,
+        "title":"Brain",
+        "des":"Brain surgery, also known as neurosurgery, is a medical procedure performed to treat conditions affecting the brain or its surrounding structures. It involves accessing the brain through a surgical approach and making necessary interventions to remove tumors, repair blood vessels, treat seizures, relieve pressure, or address other brain-related disorders.",
+        "img":"../images/brain.jpeg" 
+    },
+    {
+        "id":6,
+        "title":"Stomach",
+        "des":"Stomach surgery, also known as gastric surgery or stomach surgery, is a medical procedure performed to treat conditions or diseases affecting the stomach. It involves surgical interventions on the stomach to address issues such as gastric ulcers, stomach tumors, obesity, or other gastrointestinal disorders. The specific type of stomach surgery may vary depending on the diagnosis and the nature of the condition being treated.",
+        "img":"../images/stomach.jpeg"   
+    }
+]

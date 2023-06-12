@@ -1,0 +1,27 @@
+#cards001{
+    background-color:  #034f84;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 900;
+    color: white;
+
+}
+#cards001 p{
+    font-weight: 500;
+}
+
+#cards001 img{
+    margin-top: 20px;
+}
+
+#service-01 h1{
+    margin-top: 70px;
+    padding-top: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+@media (max-width: 767px) {
+    #cards001 h4{
+        padding-top: 30px;
+    }
+}

@@ -1,0 +1,98 @@
+
+
+#qoute{
+  background-color:  #034f84;
+  color: white;
+  font-weight: bold;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border-radius: 5px;
+  padding: 40px;
+  font-size: 30px;
+}
+
+
+#service1{
+  background-color:  #034f84 !important;
+}
+
+#cards{
+  margin-top: 20px;
+  width: 400px;
+  border: 1px solid black;
+  margin-left: 5px;
+  cursor: pointer;
+  margin-bottom: 20px;
+  height: 250px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+
+}
+#cards:hover{
+  margin-top: 20px;
+  width: 400px;
+  border: 3px solid black;
+  margin-left: 5px;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+#cards img{
+  margin-top: 10px;
+}
+
+#text1{
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+
+}
+#view01{
+  background-color: rgb(252, 100, 100);
+  color: white;
+  font-weight: bold;
+  width: 180px;
+  border: none;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  cursor: pointer;
+
+
+}
+#appoint{
+  margin-top: 40px;
+  background-color: #59a8e0;
+
+  border-radius: 5px;
+  height: 300px;
+}
+#appoint h2{
+ margin-top: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  background-color: whitesmoke;
+  padding: 5px;
+
+}
+
+#appoint h4{
+  color: brown;
+  text-decoration: underline  brown;
+  cursor: pointer;
+}
+
+#form{
+  width: 200px;
+  background-color: blue;
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  border-radius: 5px;
+  border: none;
+  padding: 6px;
+
+}
+@media (max-width: 767px) {
+  #doctor{
+    width: 360px;
+  }
+}
